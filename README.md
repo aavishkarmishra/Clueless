@@ -11,4 +11,4 @@ A game in javascript with the following rules.
 5. The word is submitted for evaluation when Enter Button is pressed
 
 ## Example
-![Screenshot from 2022-04-18 18-03-06](https://user-images.githubusercontent.com/58372823/163809038-693c6278-68c9-4b7c-a7de-7ff647dd7d2e.png)
+![Screenshot from 2022-04-18 20-23-24](https://user-images.githubusercontent.com/58372823/163826530-bf1329ee-70be-4e43-b990-0b0f44b0a9d3.png)
