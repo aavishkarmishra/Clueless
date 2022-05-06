@@ -4,7 +4,7 @@ const NUMBER_OF_GUESSES = 6;
 let guessesRemaining = NUMBER_OF_GUESSES;
 let currentGuess = [];
 let nextLetter = 0;
-let rightGuessString = WORDS[Math.floor(Math.random() * WORDS.length)];
+const rightGuessString = WORDS[Math.floor(Math.random() * WORDS.length)];
 
 console.log(rightGuessString);
 
@@ -118,7 +118,7 @@ function checkGuess() {
 
     if (guessesRemaining === 0) {
       alert("You've run out of guesses! Game over!");
-      alert(`The right word was: "${rightGuessString}"`);
+      document.getElementById('answer').textContent = 'Answer is ' + rightGuessString;
     }
   }
 }
