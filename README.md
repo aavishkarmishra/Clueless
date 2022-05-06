@@ -25,9 +25,5 @@ node_modules/.bin/cypress open
 ```
 
 ## Example
-<<<<<<< HEAD
+![Screenshot from 2022-05-07 02-48-14](https://user-images.githubusercontent.com/58372823/167217797-963813f3-d6cb-4e64-8212-3320bb803543.png)
 
-![Screenshot from 2022-04-18 18-03-06](https://user-images.githubusercontent.com/58372823/163809038-693c6278-68c9-4b7c-a7de-7ff647dd7d2e.png)
-=======
-![Screenshot from 2022-04-18 20-23-24](https://user-images.githubusercontent.com/58372823/163826530-bf1329ee-70be-4e43-b990-0b0f44b0a9d3.png)
->>>>>>> 3c3a0a480a1aaa1a84d9fbbe613e8be3a27dfe4b
